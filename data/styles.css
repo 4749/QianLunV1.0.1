@@ -89,7 +89,7 @@
   font-weight:400;
   font-style:normal;
   font-size:14px;
-  color:#515151;
+  color:#FF0000;
   text-align:center;
   line-height:normal;
 }
@@ -139,4 +139,6 @@
   font-size:17px;
   color:#363636;
   text-align:left;
+}
+._水平线1 {
 }
